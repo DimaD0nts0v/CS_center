@@ -3,4 +3,4 @@ Data analysis on Python with examples and tasks
 
 lecturer: Vadim L. Abbakumov, Chief Analyst at Gazprom Neft
 
-link: https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7
+link of the course: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3730/

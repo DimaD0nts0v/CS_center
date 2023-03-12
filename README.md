@@ -1,5 +1,5 @@
-# CS_center
-Data analysis on Python with examples and tasks
+# Data analysis on Python with examples and tasks
+There are lectures and course homework in the repository.
 
 lecturer: Vadim L. Abbakumov, Chief Analyst at Gazprom Neft
 
